@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of certaine letters, which manifest the designe of the late discovered plot First, His Majesties letter to the City of London. Secondly, the Lord Digbies letter to Sir Bazill Brooke. Lastly, other intercepted letters touching the same businesse, with the six propositions of the City to His Majesty.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78680</idno><idno type="EEBO-CITATION">99896888</idno>
+  <idno type="VID">135383</idno>
+  <idno type="EEBO-PROQUEST">2240937896</idno>
+  
+            <idno type="STC">Wing C2166</idno>
+            <idno type="STC">ESTC R205320</idno>
+            <idno type="PROQUEST">99896888</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896888e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2456:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of certaine letters, which manifest the designe of the late discovered plot First, His Majesties letter to the City of London. Secondly, the Lord Digbies letter to Sir Bazill Brooke. Lastly, other intercepted letters touching the same businesse, with the six propositions of the City to His Majesty.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Digby, Kenelm, Sir, 1603-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeare, 1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The letter of Charles I dated: ... at Oxford, 28. Decemb. 1643.</note>
+                  <note>In this edition, lines 12 through 14 of title read: "Lastly, other intercepted letters touching the same businesse, with the six propositions of the City to His Majesty.".</note>
+                  <note>The publication year is given according to Lady Day dating.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brooke, Basil, --  Sir, 1576-1646? --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135383:1"/>
+            <p>A COPIE Of certaine LETTERS, Which Manifest the Designe of the late discovered PLOT. FIRST, His MAjESTIES Letter to the City of LONDON. Secondly, The Lord DIGBIES Letter to Sir <hi>Bazill Brooke.</hi> Lastly, Other intercepted Letters touching the same Businesse, with the six Propositions of the City to His Majesty.</p>
+            <p>Printed in the Yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:135383:2"/>
+            <pb n="1" facs="tcp:135383:2"/>
+            <div type="letter">
+               <head type="illustration">
+                  <figure>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                     <p>
+                        <label>C R</label>
+                     </p>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                     <q>DIEV ET MON DROIT</q>
+                  </figure>
+               </head>
+               <head>His Majesties Letter.</head>
+               <opener>
+                  <salute>
+                     <seg rend="decorInit">T</seg>Rusty and welbeloved, Wee greet you well. </salute>
+               </opener>
+               <p>When Wee remember the many Acts of Grace and favour Wee and Our Royall Predecessors have confer<g ref="char:EOLhyphen"/>red upon that Our City of <hi>London,</hi> and the many Examples of eminent Dutie and Loyalty, for which that City hath beene likewise famous, Wee are willing to beleeve, notwithstanding the great defection Wee have found in that place, that all men are not so farre degenerated from their Affection to Vs &amp; to the Peace of the Kingdome, as to desire a continuance of the miseries they now feel; &amp; therefore being informed, that there is a desire in some
+<pb n="2" facs="tcp:135383:3"/> principall Persons of that City to present a Petition to Vs, which may tend to the procuring a good under<g ref="char:EOLhyphen"/>standing betweene Vs and that Our City, whereby the Peace of the whole Kingdome may be procured: Wee have thought fit to let you know, That Wee are ready to receive any such Petition, and the Per<g ref="char:EOLhyphen"/>sons who shall be imployed to present the same to Vs, shall have a safe Conduct; And you shall assure all Our good Subjects of that Our City, whose hearts are touched with any sense of Duty to Vs, or of Love to the Religion and Lawes established, in the quiet and peaceable Fruition whereof they and their An<g ref="char:EOLhyphen"/>cestors have enjoyed so great Happinesse, That Wee have neither past any Act, nor made any Profession or Protestation for the maintenance and Defence of the true Protestant Religion, and the Liberty of the Sub<g ref="char:EOLhyphen"/>ject, which Wee will not most strictly and religiously observe; and for the which, Wee will not be alwayes ready to give them any security can be devised. And of these Our Gracious Letters, Wee expect a speedy Answer from You. And so Wee bid You farewell.</p>
+               <closer>
+                  <dateline>Given at Our Court at Oxford, <date>28. Decemb. 1643.</date>
+                  </dateline>
+               </closer>
+               <trailer>To Our trusty and welbeloved, Our Lord Major and Al<g ref="char:EOLhyphen"/>dermen of Our City of <hi>London,</hi> and to all other Our wel-affected Subjects of that City.</trailer>
+            </div>
+            <div type="letter">
+               <p>There was another Letter from the King to the City, dated the 2. of January instant, verbatim as this is, onely the last was thus directed,</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>To Our trusty and welbeloved, Our Lord Major, the Al<g ref="char:EOLhyphen"/>dermen, and Common-Councell of Our City of <hi>London.</hi>
+                     </head>
+                     <p/>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:135383:3"/>
+               <head>The Lord Digbies Letter to Sir Bazil Brooke.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe King and Queen have both commanded me to give you thanks in their name, for your care and diligence in their service; and His Majesty hath so much confidence in your discretion and wari<g ref="char:EOLhyphen"/>nesse not to be deluded, that in hopes of the good effects towards a happy peace, which you seeme to promise your selfe from this negotiation, His Majesty is plea<g ref="char:EOLhyphen"/>sed to descend very far in writing so gracious a Letter to those, who may seeme to have deserved so ill of him.</p>
+               <p>I send you herewithall a Copy of the Letter it selfe, which varies onely in the stile, not in the matter, from that draught which was sent downe hither; which, (if you like, and continue confident, that it might be effectuall to so blessed an end, as Peace and Union) you are to de<g ref="char:EOLhyphen"/>liver to those parties, seconded with assurances of His Majesties most gracious and sincere inclination, to give them full satisfaction in all their reasonable desires; but if you shall finde cause to lessen the beliefe you had of a powerfull effect by this Letter of His Majesties, it is then
+<pb n="4" facs="tcp:135383:4"/> recommended to your discretion, to forbear the delive<g ref="char:EOLhyphen"/>ry of it; since it would be a very unfit thing, to impose so great a grace and condescending of His Majesty to ha<g ref="char:EOLhyphen"/>zards of being made frustrate and contemned, God send you happy successe in this great undertaking: I professe it is that, wherein my belief and reason goe along more comfortably then with any thing that I have known in projection since these troubles: but it is not fit to wade further into the businesse this hazardous way; and therefore I shall adde no more, but that I am,</p>
+               <closer>
+                  <signed>your very affectionate servant,</signed>
+                  <dateline>
+                     <date>Decemb. 29. 1643.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:135383:4"/>
+               <div type="introduction">
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THis inclosed shall serve for you, aswell as for him to whom it is directed: lose no time, you were expected here every day this weeke: if you can bring this businesse to a happy conclu<g ref="char:EOLhyphen"/>sion, besides the generall good, it will be for your owne particular, the best that ever you did. If you come not with this bearer, I pray you send me by him the furred Coate I wrote to you for: make all the possible haste you can, that the Petitions may speedily be sent hither, and assure your friends, that if they performe their parts of the six propositions, I am confident, the K. will con<g ref="char:EOLhyphen"/>descend to their desires.</p>
+                  <closer>
+                     <dateline>
+                        <date>Decemb. 30 1643.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <head>A Letter, intituled, to the man in the Moon.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I wrote to you formerly, but never had any answer. I assure you faithfully, I have not bin wanting to doe what you desired (as you may perceive by the effects) and if you have not your desire, blame your selves: But give me leave to tell you, that if you neglect the oppor<g ref="char:EOLhyphen"/>tunity now offered you, it may be, you shall never have the like againe; for I have made Her whom you have given just occasion to be your worst friend, to be your
+<pb n="6" facs="tcp:135383:5"/> best, and the onely instrument to procure what here is sent you; and be confident she shall still be so, provided you doe your parts. Consider, I beseech you, what a gate is opened by bringing in of the Scots, for the de<g ref="char:EOLhyphen"/>struction of this Kingdom: if there be not a peace (which I pray God Almighty to send speedily) you must ex<g ref="char:EOLhyphen"/>pect armies of strangers from severall places, who are now a preparing, who certainely at their in-comming will over-runne the whole Kingdome, and when it is past remedy, you will see your owne errour: therefore (to prevent more misery then I am able to expresse to this deplorable Kingdome and the effusion of the blood of millions of men, women, and children, which must in<g ref="char:EOLhyphen"/>fallibly be this summer) apply your selves in an humble and submissive way to His Majesty, whom, I know, you will finde ready with armes out-stretched to receive you both to favour and mercy, and even grant you graces beyond expectation: Deferre no time for Gods sake, and what you will do, do speedily; I say againe, do it speedily, and lose no time for reasons I may not write.</p>
+               </div>
+               <div type="propositions">
+                  <head>The six Propositions of the City to His Majesty.</head>
+                  <list type="propositions">
+                     <item>1. <hi>INprimis,</hi> That one part of the Excise be allotted for the pay<g ref="char:EOLhyphen"/>ment of those monies taken up by His Majesty in these times of Warre.</item>
+                     <item>2. That another part of the Excise be allotted for the payment of all monies taken up by the Parliament upon the Publike Faith, and for the Irish Adventurers.</item>
+                     <item>3. That an Act of Parliament be passed for the setling the Ex<g ref="char:EOLhyphen"/>cise, untill the foresaid engagements be payd in full to every one.</item>
+                     <item>4. That a third part of the Excise remaine unto His Majesty during His life, for the repairing of His Majesties Ports and Forts of the Kingdome, and maintenance of His Majesties Shipping.</item>
+                     <item>5. That an Act of oblivion be made, and generall pardon be gi<g ref="char:EOLhyphen"/>ven to all by His Majesty.</item>
+                     <item>6. That all Members of both Houses of Parliament be called to<g ref="char:EOLhyphen"/>gether, and that those absents either by death or expulsion of both King and Parliament be elected anew, according to the an<g ref="char:EOLhyphen"/>cient Lawes of the Kingdome.</item>
+                  </list>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135383:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
